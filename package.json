@@ -1,0 +1,22 @@
+{
+  "name": "parallel-sorting-algorithm-visualizer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "B.E. Computer Science College Project - Parallel Computing & Multiprocessing Sorting Visualizer",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview",
+    "backend": "python backend/app.py",
+    "test:backend": "python backend/test_backend.py"
+  },
+  "keywords": [
+    "parallel-computing",
+    "sorting-visualizer",
+    "multiprocessing",
+    "react",
+    "flask",
+    "recharts"
+  ],
+  "author": "College Engineering Project"
+}
